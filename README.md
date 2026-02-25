@@ -1,5 +1,3 @@
-# Loan-Approval-Prediction-Gradio
-Machine Learning based Loan Approval Prediction App built using Gaussian Naive Bayes and Gradio.
 # 💳 Loan Approval Prediction App
 
 This project is a Machine Learning-based Loan Approval Prediction System 
